@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "Receita-Nossa",
+            "database": "${workspaceFolder:BackEnd}/database/recipes.db"
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}
